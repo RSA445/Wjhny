@@ -61,7 +61,12 @@ Smart cities · Crowd safety · Digital transformation of Hajj and Umrah service
 
 ## 👩‍💻 Team
 
-Built by **[Roz Alomar](https://github.com/RSA445)**, AI Solutions Builder and Information Systems student at Najran University.
+| Role | Member |
+| --- | --- |
+| 👑 **Team Leader** | **Taif Alanazi** (طيف العنزي) |
+| 🤝 **Team Member** | **[Roz Alomar](https://github.com/RSA445)**, AI Solutions Builder and Information Systems graduate from Najran University |
+
+Wjhny was developed by a team led by **Taif Alanazi**, with Roz Alomar working alongside her on the project.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roz-alomar"><img src="https://img.shields.io/badge/LinkedIn-roz--alomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
